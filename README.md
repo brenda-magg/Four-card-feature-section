@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Four card feature section](https://brenda-magg.github.io/Four-card-feature-section/)
 
 ## My process
 
@@ -44,4 +44,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/brenda-magg)
+- Frontend Mentor - [@brenda-magg](https://www.frontendmentor.io/profile/brenda-magg)
